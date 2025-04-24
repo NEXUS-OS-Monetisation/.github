@@ -1,5 +1,7 @@
 # NEXUS OS Monetisation
 
+![nom](https://github.com/user-attachments/assets/72501fb5-ffce-4299-8ee7-10ca3e9b8f04)
+
 ### Key Points
 - Research suggests Nexus OS can target privacy-preserving DeFi, verifiable AI, and secure cloud computing for a billion-dollar ARR.
 - It seems likely that DeFi offers strong potential with ZK for private transactions and scalable rollups.
@@ -130,3 +132,80 @@ Nexus OS has significant potential to create a billion-dollar ARR business by fo
 - [Zero-Knowledge Proof and AI Model Training Medium Article](https://medium.com/@Web3comVC/zero-knowledge-proof-and-ai-model-training-a05095496a39)
 - [Ucla Rafail Ostrovsky Publications](https://web.cs.ucla.edu/~rafail/PUBLIC/77.pdf)
 - [Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2020/1451)
+
+https://blog.nexus.xyz/forbes30under30/
+https://fortune.com/crypto/2024/06/10/nexus-laboratories-raises-25-million-from-pantera-and-lightsped-to-expand-zero-knowledge-privacy-tools/
+https://www.danielmarin.xyz/
+
+![nexus-os](https://github.com/user-attachments/assets/1a5fe37a-001b-4b3c-a55b-74977438ba87)
+
+### Key Points
+- Nexus is likely a startup focused on enhancing Internet security using zero-knowledge cryptography.
+- Daniel Marin, featured in Forbes 30 Under 30 for 2025, seems to be the founder, aiming to verify user identity without compromising personal information.
+- Research suggests Nexus raised $25 million to expand privacy tools, backed by investors like Pantera and Lightspeed.
+- The evidence leans toward Nexus being based in San Francisco, with interests in mathematics and theoretical physics.
+
+---
+
+### Overview
+Nexus appears to be a promising startup in the field of Internet security, particularly through the use of zero-knowledge cryptography, which allows verifying user identities without exposing personal information. This technology relies on a network of computers for computation, suggesting a scalable approach to privacy and security.
+
+### Founder and Recognition
+Daniel Marin, the likely founder, has been recognized in the Forbes 30 Under 30 list for 2025 in the science category, highlighting his entrepreneurial efforts. This recognition underscores the importance of Nexus's mission to enhance online trustworthiness.
+
+### Funding and Growth
+It seems likely that Nexus, possibly under the name Nexus Laboratories, recently raised $25 million in a Series A funding round. This funding, from notable investors like Pantera and Lightspeed, is aimed at expanding their zero-knowledge privacy tools, which are central to their operations.
+
+### Location and Interests
+The evidence suggests Nexus is based in San Francisco, with Daniel Marin expressing interests in mathematics, theoretical physics, and computer science, indicating a strong technical foundation for their work.
+
+---
+
+---
+
+### Survey Note: Detailed Analysis of Nexus and Related Information
+
+This note provides a comprehensive overview of the information gathered from the provided URLs, focusing on Nexus, its founder Daniel Marin, and recent developments. The analysis is structured to include all relevant details, ensuring a thorough understanding of the company's mission, achievements, and context as of 09:46 PM EEST on Thursday, April 24, 2025.
+
+#### Background on Nexus
+Nexus appears to be a startup dedicated to enhancing Internet security and trustworthiness through advanced cryptographic techniques. Specifically, the company focuses on zero-knowledge cryptography, a method that allows for the verification of user identity without compromising personal information. This approach relies on a network of computers for computation, suggesting a decentralized and scalable model for privacy and security solutions. The mission of Nexus is to address long-standing security problems on the Internet, making it a verifiable and trustworthy platform for users.
+
+#### Founder: Daniel Marin and Forbes Recognition
+Daniel Marin is identified as a key figure associated with Nexus, featured in the Forbes 30 Under 30 list for 2025 in the science category as a top entrepreneur. This recognition, detailed in a blog post from Nexus, highlights his leadership and the company's innovative approach. The Forbes listing emphasizes Marin's work in using cryptography, mathematics, and engineering to create a verifiable Internet, with a video interview available for further insight at [Forbes Video](https://www.forbes.com/video/5e4b6629-257e-4160-a6c0-75ff9deadb08/this-entrepreneur-wants-to-solve-a-security-problem-that-has-plagued-internet-users-for-decades/?ref=blog.nexus.xyz). This recognition underscores the significance of Nexus's mission in the broader context of Internet security.
+
+#### Recent Funding and Expansion
+A news article from Fortune indicates that Nexus Laboratories, likely the formal entity for Nexus, has raised $25 million in funding from investors Pantera and Lightspeed. This Series A round, as of June 2024 (noted in the article, though analyzed in the current context), is intended to expand their "zero-knowledge" privacy tools. This funding is a significant milestone, suggesting strong investor confidence in Nexus's potential to scale its technology and impact. The involvement of prominent investors like Pantera and Lightspeed further validates the company's direction and capabilities.
+
+#### Detailed Profile of Daniel Marin
+Daniel Marin's personal website provides additional context about his role and interests. He is described as building Nexus, a $25M Series A startup based in San Francisco, backed by a robust list of investors including Lightspeed, Pantera, Dragonfly, Alliance, and SV Angel. This aligns with the funding news, reinforcing the financial backing and operational base. Nexus's focus, as per Marin's website, is on scaling zero-knowledge cryptography for verifiable computation, a technical area that aligns with the company's mission. Marin expresses interests in mathematics, theoretical physics, and computer science, indicating a strong academic and technical foundation. His contact information, including social media profiles on X ([X Profile](https://x.com/danielmarinq)), GitHub ([GitHub Profile](https://github.com/danielmarinq)), LinkedIn ([LinkedIn Profile](https://linkedin.com/in/danielmarinq)), and email ([Email Contact](mailto:daniel@nexus.xyz)), suggests an active engagement with the tech community.
+
+#### Synthesis and Implications
+Combining the information, Nexus emerges as a startup at the forefront of privacy and security technology, with a clear focus on zero-knowledge cryptography. The recognition of Daniel Marin in Forbes 30 Under 30 for 2025, coupled with the recent $25 million funding, positions Nexus for significant growth. The company's San Francisco base and Marin's technical interests suggest a blend of innovation and practical application, potentially influencing future developments in Internet security. The involvement of multiple high-profile investors further indicates a strong market position and potential for scalability.
+
+#### Table: Summary of Key Details
+To organize the information effectively, the following table summarizes the key points from each source:
+
+| **Source**                          | **Key Information**                                                                 |
+|-------------------------------------|------------------------------------------------------------------------------------|
+| Nexus Blog ([Forbes 30 Under 30](https://blog.nexus.xyz/forbes30under30/)) | Daniel Marin featured in Forbes 30 Under 30 2025, Nexus uses cryptography for identity verification. |
+| Fortune Article ([Funding News](https://fortune.com/crypto/2024/06/10/nexus-laboratories-raises-25-million-from-pantera-and-lightsped-to-expand-zero-knowledge-privacy-tools/)) | Nexus Laboratories raised $25 million from Pantera and Lightspeed for privacy tools. |
+| Daniel Marin's Website ([Personal Site](https://www.danielmarin.xyz/)) | Marin builds Nexus, $25M Series A, San Francisco, backed by Lightspeed, Pantera, etc., focuses on zero-knowledge cryptography. |
+
+This table encapsulates the core details, providing a quick reference for understanding Nexus's current status and achievements.
+
+#### Conclusion
+The analysis of the provided URLs reveals Nexus as a startup with significant potential in the field of Internet security, driven by innovative technology and strong leadership. Daniel Marin's recognition and the recent funding round highlight the company's trajectory, with a clear focus on scaling zero-knowledge cryptography. The detailed profile from Marin's website adds depth, showing a technically grounded approach and a supportive investor base. This comprehensive overview ensures all relevant information is captured, providing a complete picture as of the current date.
+
+---
+
+### Key Citations
+- [Nexus Forbes 30 Under 30 Announcement](https://blog.nexus.xyz/forbes30under30/)
+- [Nexus Laboratories $25M Funding News](https://fortune.com/crypto/2024/06/10/nexus-laboratories-raises-25-million-from-pantera-and-lightsped-to-expand-zero-knowledge-privacy-tools/)
+- [Daniel Marin's Personal Website](https://www.danielmarin.xyz/)
+- [Forbes Video Interview with Daniel Marin](https://www.forbes.com/video/5e4b6629-257e-4160-a6c0-75ff9deadb08/this-entrepreneur-wants-to-solve-a-security-problem-that-has-plagued-internet-users-for-decades/?ref=blog.nexus.xyz)
+- [Daniel Marin's X Profile](https://x.com/danielmarinq)
+- [Daniel Marin's GitHub Profile](https://github.com/danielmarinq)
+- [Daniel Marin's LinkedIn Profile](https://linkedin.com/in/danielmarinq)
+
+
+
